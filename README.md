@@ -1,5 +1,5 @@
 # CSe2018B_Exam_1sty_Grp2
-Exam project for 2nd semester at Business Academy Southwest in cooperation with Belman A/S. Repository contains PDF file with full description and documentation of the project.
+Exam project for 2nd semester at Business Academy Southwest in cooperation with Belman A/S.
 
 ### Problem statement from Belman A/S :
 
